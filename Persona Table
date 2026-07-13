@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Persona 5 Arcana Fusion Table</title>
+<style>
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    margin:20px;
+}
+table{
+    border-collapse:collapse;
+    font-size:13px;
+}
+th,td{
+    border:1px solid #bbb;
+    padding:4px 8px;
+    text-align:center;
+    white-space:nowrap;
+}
+thead th{
+    background:#222;
+    color:#fff;
+    position:sticky;
+    top:0;
+}
+tbody th{
+    background:#222;
+    color:#fff;
+    position:sticky;
+    left:0;
+}
+</style>
+</head>
+<body>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Fool</th>
+<th>Magician</th>
+<th>Priestess</th>
+<th>Empress</th>
+<th>Emperor</th>
+<th>Hierophant</th>
+<th>Lovers</th>
+<th>Chariot</th>
+<th>Justice</th>
+<th>Hermit</th>
+<th>Fortune</th>
+<th>Strength</th>
+<th>Hanged Man</th>
+<th>Death</th>
+<th>Temperance</th>
+<th>Devil</th>
+<th>Tower</th>
+<th>Star</th>
+<th>Moon</th>
+<th>Sun</th>
+<th>Judgement</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<th>Fool</th>
+<td>Fool</td>
+<td>Death</td>
+<td>Moon</td>
+<td>Hanged Man</td>
+<td>Temperance</td>
+<td>Hermit</td>
+<td>Chariot</td>
+<td>Moon</td>
+<td>Star</td>
+<td>Priestess</td>
+<td>Lovers</td>
+<td>Death</td>
+<td>Tower</td>
+<td>Strength</td>
+<td>Hierophant</td>
+<td>Temperance</td>
+<td>Empress</td>
+<td>Magician</td>
+<td>Justice</td>
+<td>Justice</td>
+<td>Sun</td>
+</tr>
+
+<tr>
+<th>Magician</th>
+<td>-</td>
+<td>Magician</td>
+<td>Temperance</td>
+<td>Justice</td>
+<td>Hanged Man</td>
+<td>Death</td>
+<td>Devil</td>
+<td>Priestess</td>
+<td>Emperor</td>
+<td>Lovers</td>
+<td>Justice</td>
+<td>Fool</td>
+<td>Empress</td>
+<td>Hermit</td>
+<td>Chariot</td>
+<td>Hierophant</td>
+<td>Temperance</td>
+<td>Priestess</td>
+<td>Lovers</td>
+<td>Hierophant</td>
+<td>Strength</td>
+</tr>
+
+<tr>
+<th>Priestess</th>
+<td>-</td>
+<td>-</td>
+<td>Priestess</td>
+<td>Emperor</td>
+<td>Empress</td>
+<td>Magician</td>
+<td>Fortune</td>
+<td>Hierophant</td>
+<td>Death</td>
+<td>Temperance</td>
+<td>Magician</td>
+<td>Devil</td>
+<td>Death</td>
+<td>Magician</td>
+<td>Devil</td>
+<td>Moon</td>
+<td>Hanged Man</td>
+<td>Hermit</td>
+<td>Hierophant</td>
+<td>Chariot</td>
+<td>Justice</td>
+</tr>
+
+<tr>
+<th>Empress</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Empress</td>
+<td>Justice</td>
+<td>Fool</td>
+<td>Judgement</td>
+<td>Star</td>
+<td>Lovers</td>
+<td>Strength</td>
+<td>Hermit</td>
+<td>Chariot</td>
+<td>Priestess</td>
+<td>Fool</td>
+<td>Priestess</td>
+<td>Sun</td>
+<td>Emperor</td>
+<td>Lovers</td>
+<td>Fortune</td>
+<td>Tower</td>
+<td>Emperor</td>
+</tr>
+
+<tr>
+<th>Emperor</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Emperor</td>
+<td>Fortune</td>
+<td>Fool</td>
+<td>Strength</td>
+<td>Chariot</td>
+<td>Hierophant</td>
+<td>Sun</td>
+<td>Tower</td>
+<td>Devil</td>
+<td>Hermit</td>
+<td>Devil</td>
+<td>Justice</td>
+<td>Star</td>
+<td>Lovers</td>
+<td>Tower</td>
+<td>Judgement</td>
+<td>Priestess</td>
+</tr>
+
+<tr>
+<th>Hierophant</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Hierophant</td>
+<td>Strength</td>
+<td>Star</td>
+<td>Hanged Man</td>
+<td>Fortune</td>
+<td>Justice</td>
+<td>Fool</td>
+<td>Sun</td>
+<td>Chariot</td>
+<td>Death</td>
+<td>Hanged Man</td>
+<td>Judgement</td>
+<td>Tower</td>
+<td>Priestess</td>
+<td>Lovers</td>
+<td>Empress</td>
+</tr>
+
+<tr>
+<th>Lovers</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Lovers</td>
+<td>Temperance</td>
+<td>Judgement</td>
+<td>Chariot</td>
+<td>Strength</td>
+<td>Death</td>
+<td>Sun</td>
+<td>Temperance</td>
+<td>Strength</td>
+<td>Moon</td>
+<td>Empress</td>
+<td>Chariot</td>
+<td>Magician</td>
+<td>Empress</td>
+<td>Hanged Man</td>
+</tr>
+
+<tr>
+<th>Chariot</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Chariot</td>
+<td>Moon</td>
+<td>Devil</td>
+<td>Priestess</td>
+<td>Hermit</td>
+<td>Fool</td>
+<td>Devil</td>
+<td>Strength</td>
+<td>Temperance</td>
+<td>Fortune</td>
+<td>Moon</td>
+<td>Lovers</td>
+<td>Priestess</td>
+<td>Hierophant</td>
+</tr>
+
+<tr>
+<th>Justice</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Justice</td>
+<td>Magician</td>
+<td>Emperor</td>
+<td>Hierophant</td>
+<td>Lovers</td>
+<td>Fool</td>
+<td>Emperor</td>
+<td>Fool</td>
+<td>Sun</td>
+<td>Empress</td>
+<td>Devil</td>
+<td>Hanged Man</td>
+<td>Tower</td>
+</tr>
+
+<tr>
+<th>Hermit</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Hermit</td>
+<td>Star</td>
+<td>Hierophant</td>
+<td>Star</td>
+<td>Strength</td>
+<td>Strength</td>
+<td>Priestess</td>
+<td>Judgement</td>
+<td>Strength</td>
+<td>Priestess</td>
+<td>Devil</td>
+<td>Emperor</td>
+</tr>
+
+<tr><th>Fortune</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Fortune</td><td>Temperance</td><td>Emperor</td><td>Star</td><td>Empress</td><td>Hierophant</td><td>Hanged Man</td><td>Devil</td><td>Sun</td><td>Star</td><td>Tower</td></tr>
+
+<tr><th>Strength</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Strength</td><td>Temperance</td><td>Hierophant</td><td>Chariot</td><td>Death</td><td>Chariot</td><td>Moon</td><td>Magician</td><td>Moon</td><td>Fortune</td></tr>
+
+<tr><th>Hanged Man</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Hanged Man</td><td>Moon</td><td>Death</td><td>Fortune</td><td>Hermit</td><td>Justice</td><td>Strength</td><td>Hierophant</td><td>Star</td></tr>
+
+<tr><th>Death</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Death</td><td>Hanged Man</td><td>Chariot</td><td>Sun</td><td>Devil</td><td>Hierophant</td><td>Priestess</td><td>Magician</td></tr>
+
+<tr><th>Temperance</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Temperance</td><td>Fool</td><td>Fortune</td><td>Sun</td><td>Fortune</td><td>Magician</td><td>Hermit</td></tr>
+
+<tr><th>Devil</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Devil</td><td>Magician</td><td>Strength</td><td>Chariot</td><td>Hermit</td><td>Lovers</td></tr>
+
+<tr><th>Tower</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Tower</td><td>Death</td><td>Hermit</td><td>Emperor</td><td>Moon</td></tr>
+
+<tr><th>Star</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Star</td><td>Temperance</td><td>Judgement</td><td>Fortune</td></tr>
+
+<tr><th>Moon</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Moon</td><td>Empress</td><td>Fool</td></tr>
+
+<tr><th>Sun</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Sun</td><td>Death</td></tr>
+
+<tr><th>Judgement</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Judgement</td></tr>
+
+</tbody>
+</table>
+
+</body>
+</html>
